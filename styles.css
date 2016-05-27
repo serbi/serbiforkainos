@@ -1,0 +1,28 @@
+body { 
+    font-family: 'Courier New';
+    background-color: white;
+    color: black;
+}
+
+h1 {
+	color: black;
+}
+
+p {
+	color: black;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: hotpink;
+    text-decoration: b;
+}
