@@ -1,0 +1,56 @@
+body { 
+    font-family: 'Courier New';
+    background-color: white;
+    color: black;
+    padding: 10px;
+    font-size: 80%;
+}
+
+h4 {
+	font-family: 'Courier New';
+	color: white;
+	background: black;
+}
+
+p {
+	color: black;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: hotpink;
+    text-decoration: b;
+}
+.hideElement {
+	display:none;
+}
+
+input.datepicker {
+	width:7em;
+}
+
+dataTables_info {
+	padding: left;
+}
+
+div.dateControlBlock {
+	float:left;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2
+}
+
+th {
+	background-color: black;
+	color: white;
+}
